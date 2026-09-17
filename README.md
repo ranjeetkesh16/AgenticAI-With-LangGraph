@@ -138,31 +138,73 @@ The complete provider setup and graph visualization are available in
 
 ### Basic graph and routing
 
-![Simple LLM workflow](graphs/01_simple_llm_workflow.png)
+#### 1_simple_llm_workflow
+![1_simple_llm_workflow](graphs/1_simple_llm_workflow.png)
 
-![Review reply workflow](graphs/02_review_reply_workflow.png)
+#### 2_sentiment_review_reply_workflow
+![2_sentiment_review_reply_workflow](graphs/2_sentiment_review_reply_workflow.png)
+
+#### 3_simple_rag-agent
+![3_simple_rag-agent](graphs/3_simple_rag-agent.png)
+
+#### 4_X_post_generator_workflow
+![4_X_post_generator_workflow](graphs/4_X_post_generator_workflow.png)
 
 ### Persistence and retrieval
 
-![Persistence workflow](graphs/03_persistance.png)
+#### 5_chatbot_with_InMemory_saver
+![5_chatbot_with_InMemory_saver](graphs/5_chatbot_with_InMemory_saver.png)
 
-![Simple RAG workflow](graphs/04_simple_rag_workflow.png)
+#### 6_sqlite_saver
+![6_sqlite_saver](graphs/6_sqlite_saver.png)
 
-![Advanced RAG workflow](graphs/05_advance_rag_workflow.png)
+#### 7_persistence_memory
+![7_persistence_memory](graphs/7_persistence_memory.png)
 
-![Advanced RAG with conversation summary](graphs/10_advance_rag_summary_coversation.png)
+#### 8_tools
+![8_tools](graphs/8_tools.png)
 
-### Control flow patterns
+#### 9_HITL
+![9_HITL](graphs/9_HITL.png)
 
-![Human-in-the-loop workflow](graphs/06_human_in_the_loop_workflow.png)
+#### 9_linkedin_langgraph_workflow
+![9_linkedin_langgraph_workflow](graphs/9_linkedin_langgraph_workflow.png)
 
-![Map-reduce workflow](graphs/07_map_reduce_workflow.png)
+#### 10_map_reduce
+![Map-reduce workflow](graphs/10_map_reduce.png)
 
-![Multi-agent workflow](graphs/08_multiagent_workflow.png)
+#### 11_multiagent
+![Multi-agent workflow](graphs/11_multiagent.png)
 
-![Travel assistant workflow](graphs/09_travel_assistant_workflow.png)
+#### 11_multiagent_viualize
+![Multi-agent visualize workflow](graphs/11_multiagent_viualize.png)
 
-![Short-term memory workflow](graphs/11_short_term_memory.png)
+#### 12_travel_assistant
+![Travel assistant workflow](graphs/12_travel_assistant.png)
+
+#### 13_advance_rag
+![Advanced RAG workflow](graphs/13_advance_rag.png)
+
+#### 13_advance_rag2
+![Advanced RAG workflow variant](graphs/13_advance_rag2.png)
+
+#### 14_short_term_memory_trimming
+![Short-term memory trimming workflow](graphs/14_short_term_memory_trimming.png)
+
+#### 14_short_term_memory_summerizing
+![Short-term memory summarizing workflow](graphs/14_short_term_memory_summerizing.png)
+
+#### 14_short_term_memory_deleting
+![Short-term memory deleting workflow](graphs/14_short_term_memory_deleting.png)
+
+#### 15_Improved_RAG_summarization
+![Improved RAG summarization workflow](graphs/15_Improved_RAG_summarization.png)
+
+#### 18_langgraph_personalized_chatbot_sachin
+![Personalized chatbot workflow](graphs/18_langgraph_personalized_chatbot_sachin.png)
+
+#### 08_multiagent_workflow
+![Multi-agent workflow asset](graphs/08_multiagent_workflow.png)
 
 ## Persistence and databases
 
